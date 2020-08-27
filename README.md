@@ -1,6 +1,4 @@
-![](assets/img/banner.jpg)
+![banner presentation](assets/img/banner.jpg)
 
 
-# Hello World ! 👋 👨‍💻 
-
-
+# Hello World ! 👋 👨‍💻
