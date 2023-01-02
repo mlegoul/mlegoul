@@ -22,7 +22,6 @@ I prefer to work with concepts and people rather than tools or languages, but I 
 
 ___
 
-
 <div style="display: flex">
 <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -30,10 +29,9 @@ ___
 <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
 <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-
 </div>
 
-
+___
 
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/Mehdi/my-stack)
