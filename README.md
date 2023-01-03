@@ -10,7 +10,7 @@
 
 ## Experiences
 
-- **Software Developer** 🛩 : Started a new job in WeVii since september 2022
+- **Software Developer** 🛩 : Started a new job in WeVii since november 2022
 - **Frontend Developer** 🏥 : in the eHealth sector
 - **Developer** 🖥 : in a web agency
 
