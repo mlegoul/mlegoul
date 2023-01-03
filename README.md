@@ -12,23 +12,27 @@
 
 - **Software Developer** 🛩 : Started a new job in WeVii since november 2022
 - **Frontend Developer** 🏥 : in the eHealth sector
-- **Developer** 🖥 : in a web agency
+- **Web Developer** 🖥 : in a web agency
 
 ## What I want
 
-I'm mainly looking to join open-minded communities, good places and people to work with. I enjoy working on the front-end as much as the back-end. I attend trade shows to meet people and advocate for the things I believe in.
+I'm mainly looking to join open-minded communities, good places and people to work with. I enjoy working on the
+front-end as much as the back-end. I attend trade shows to meet people and advocate for the things I believe in.
 
-I prefer to work with concepts and people rather than tools or languages, but I still have preferences, like JavaScript. I'm also interested in software quality and Craftsmanship culture, as well as the Rust language.
+I prefer to work with concepts and people rather than tools or languages, but I still have preferences, like JavaScript.
+I'm also interested in software quality and Craftsmanship culture, as well as the Rust language.
 
 ___
 
-<div style="display: flex">
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<div style="display: flex; justify-content: space-evenly">
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 ___
