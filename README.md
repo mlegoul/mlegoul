@@ -1,35 +1,70 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=524EFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Mehdi;%F0%9F%91%8B++Hello+World+!)](https://git.io/typing-svg)
-
-## Summary
-
-🌱 **4 years of experience in JavaScript** within web and tech companies in France.
-
-💞️ **Eager to collaborate in open-source projects** involving TypeScript, Rust, or other exciting technologies.
-
-📫 **Reach me here** for collaborations, questions, or just to say hi!
-
-## Experiences
-
-- **Frontend Developer @ Wallix (since 2023)** 🌐
-- **Software Developer @ WeVii** 🛩️
-- **Frontend Developer in the eHealth sector** 🏥
-- **Web Developer at a web agency** 🖥️
-
-## What I'm Looking For
-
-My passion lies in being part of **open-minded communities** where the focus extends beyond mere tools to encompass the concepts, philosophies, and ideas that drive technological innovation. I find joy in engaging with both **front-end and back-end development**, constantly seeking new challenges and avenues to champion the values and practices I hold dear.
-
-While certain technologies like **JavaScript** have a special place in my toolkit, my primary interest revolves around the pursuit of **software quality** and the **culture of Craftsmanship**. I am always eager to expand my horizons, exploring new languages and methodologies that push the boundaries of what we can achieve in software development.
-
-I thrive in environments that value **collaboration over competition** and **quality over quantity**, where continuous learning and mutual growth are part of the daily routine. My goal is to join forces with individuals and teams who are not just looking to solve problems, but to redefine the way we think about solutions in the digital age.
-
-
-<div style="display: flex; justify-content: space-evenly">
-    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" />
-    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" />
-    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" />
-    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" />
-    <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/Mehdi/my-stack)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehdilegoullon/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mlegoul" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mlegoul.mlegoul" alt="Visitor Count" />
+  </a>
+</div>
+
+<h1 align="center">Hello there 👋</h1>
+
+---
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+  I'm <strong>Mehdi</strong>, an <strong>iOS developer</strong> based in <strong>Paris, France</strong>, passionate about crafting intuitive and impactful mobile experiences with <strong>Swift, SwiftUI, and UIKit</strong>.<br><br>
+  - 🔭 I’m currently working on <a href="https://github.com/mlegoul/Aura">Aura</a>, a mental well-being app, where I design and implement features using <strong>MVVM architecture</strong>, with a strong focus on <strong>user experience</strong> and <strong>modular code structure</strong>.<br>
+  - 📚 I'm deepening my expertise in <strong>SwiftUI animations</strong>, <strong>Combine framework</strong>, and <strong>accessibility best practices</strong> to build inclusive apps.<br>
+  - ⚡ Outside of iOS, I’m building <a href="https://github.com/mlegoul/TraduLink">TraduLink</a>, an API-driven platform for certified translators, where I design the <strong>backend (Node.js)</strong> and prepare its future <strong>iOS app (SwiftUI)</strong>. I’m obsessed with how APIs and mobile apps can work together to solve real-world problems—like breaking language barriers or making cities more sustainable.<br>
+  - 💡 I thrive in collaborative environments and love discussing <strong>clean code</strong>, <strong>unit testing</strong>, and innovative app design. And yes, I still believe the best brainstorming happens over a French meal! 🍷
+</p>
+
+---
+<h3 align="left">🛠 Language and Tools</h3>
+
+<div align="left">
+  <!-- Core iOS Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-XCTest-2596BE?style=flat&logo=xcode&logoColor=white" height="40" alt="XCTest" />
+
+  <!-- Backend & Web -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+
+  <!-- Essential Developer Tools -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
+
+  <!-- UI/UX & Collaboration -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+</div>
+
+---
+<h3 align="center">📊 My Skills & Progress</h3>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlegoul&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark" height="150" alt="languages graph" />
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=mlegoul&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&background=00000000" height="150" alt="streak graph" />
+</div>
+
