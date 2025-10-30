@@ -14,7 +14,6 @@
 
 <h1 align="center">Hello there 👋</h1>
 
----
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
@@ -65,6 +64,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlegoul&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark" height="150" alt="languages graph" />
 
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=mlegoul&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&background=00000000" height="150" alt="streak graph" />
+<h3 align="center">🔥 My GitHub Streak</h3>
+<div align="center">
+  <a href="https://github.com/mlegoul">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlegoul&theme=default&hide_border=false&border_radius=4.5&mode=daily" height="195" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+
 </div>
 
