@@ -17,7 +17,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm <strong>Mehdi</strong>, an <strong>iOS developer</strong> based in <strong>Paris, France</strong>, passionate about crafting intuitive and impactful mobile experiences with <strong>Swift, SwiftUI, and UIKit</strong>.<br><br>
+  I'm <strong>Mehdi</strong>, an <strong>iOS developer</strong> based in <strong>Paris, France</strong>, passionate about crafting intuitive and impactful mobile experiences with <strong>Swift, SwiftUI, and a bit of UIKit</strong>.<br><br>
   - 🔭 I’m currently working on <a href="https://github.com/mlegoul/Aura">Aura</a>, a mental well-being app, where I design and implement features using <strong>MVVM architecture</strong>, with a strong focus on <strong>user experience</strong> and <strong>modular code structure</strong>.<br>
   - 📚 I'm deepening my expertise in <strong>SwiftUI animations</strong>, <strong>Combine framework</strong>, and <strong>accessibility best practices</strong> to build inclusive apps.<br>
   - ⚡ Outside of iOS, I’m building <a href="https://github.com/mlegoul/TraduLink">TraduLink</a>, an API-driven platform for certified translators, where I design the <strong>backend (Node.js)</strong> and prepare its future <strong>iOS app (SwiftUI)</strong>. I’m obsessed with how APIs and mobile apps can work together to solve real-world problems—like breaking language barriers or making cities more sustainable.<br>
@@ -70,8 +70,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlegoul&theme=default&hide_border=false&border_radius=4.5&mode=daily" height="195" alt="GitHub Streak" />
   </a>
 </div>
-
-
 
 </div>
 
